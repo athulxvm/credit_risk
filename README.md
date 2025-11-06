@@ -5,8 +5,7 @@ credit risk.  It uses a small fictional dataset of five counterparties,
 assigns each a base probability of default (PD) based on its credit
 rating and then applies stress factors for *mild* and *severe* recession
 scenarios.  The script outputs expected losses under each scenario and
-generates bar charts that you can import into Power BI to build an
-interactive dashboard.
+generates charts.
 
 ## Contents
 
