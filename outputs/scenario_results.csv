@@ -1,0 +1,6 @@
+counterparty_id,name,sector,rating,exposure_eur_m,pd_base,el_base_eur_m,pd_mild_recession,el_mild_recession_eur_m,pd_severe_recession,el_severe_recession_eur_m
+C01,RetailCo,Retail,BB+,3000,0.015,20.25,0.01875,25.3125,0.02625,35.4375
+C02,AutoCo,Automotive,BBB-,2500,0.007,7.875,0.00875,9.843750000000002,0.01225,13.78125
+C03,UtilityCo,Utilities,A-,1800,0.004,3.24,0.005,4.050000000000001,0.007,5.67
+C04,TechCo,Technology,A,2200,0.003,2.97,0.00375,3.7125,0.00525,5.1975
+C05,PharmaCo,Healthcare,BBB,2000,0.006,5.4,0.0075,6.75,0.0105,9.45

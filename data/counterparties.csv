@@ -1,0 +1,6 @@
+counterparty_id,name,sector,rating,exposure_eur_m
+C01,RetailCo,Retail,BB+,3000
+C02,AutoCo,Automotive,BBB-,2500
+C03,UtilityCo,Utilities,A-,1800
+C04,TechCo,Technology,A,2200
+C05,PharmaCo,Healthcare,BBB,2000
